@@ -39,6 +39,6 @@ public class AwareEnabledDialogFragment extends InstrumentedDialogFragment {
     }
 
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.ABC;
+        return MetricsProto.MetricsEvent.CANDY;
     }
 }
